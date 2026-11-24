@@ -1,0 +1,889 @@
+{
+  "guardadoEn": 1788590539122,
+  "roles": [
+    {
+      "nombre": "〔♱〕𝐹𝑜𝓊𝓃𝒹𝑒𝓇",
+      "color": 10382335,
+      "hoist": true,
+      "mentionable": false,
+      "permisos": "8864258447638527",
+      "posicion": 19
+    },
+    {
+      "nombre": "〔♱〕𝐻𝑜𝓁𝒹𝑒𝓇",
+      "color": 11156283,
+      "hoist": true,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 18
+    },
+    {
+      "nombre": "〔♱〕𝐵𝑜𝓉𝓈",
+      "color": 13927485,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 17
+    },
+    {
+      "nombre": "〔🛡️〕𝒮𝓉𝒶𝒻𝒻",
+      "color": 5025232,
+      "hoist": true,
+      "mentionable": false,
+      "permisos": "8",
+      "posicion": 16
+    },
+    {
+      "nombre": "〔👤〕𝑀𝒾𝑒𝓂𝒷𝓇𝑜",
+      "color": 8886702,
+      "hoist": true,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 15
+    },
+    {
+      "nombre": "〔👤〕𝑀𝒾𝑒𝓂𝒷𝓇𝑜",
+      "color": 8886702,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "8",
+      "posicion": 14
+    },
+    {
+      "nombre": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+      "color": 8886702,
+      "hoist": true,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 13
+    },
+    {
+      "nombre": "+18",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 12
+    },
+    {
+      "nombre": "-18",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 11
+    },
+    {
+      "nombre": "Colombia",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 10
+    },
+    {
+      "nombre": "Venezuela",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 9
+    },
+    {
+      "nombre": "Argentina",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 8
+    },
+    {
+      "nombre": "Ecuador",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 7
+    },
+    {
+      "nombre": "Republica Dominicana",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 6
+    },
+    {
+      "nombre": "Mexico",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "0",
+      "posicion": 5
+    },
+    {
+      "nombre": "Server Booster",
+      "color": 16023551,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "2222085186637377",
+      "posicion": 4
+    },
+    {
+      "nombre": "TTS Bot",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "274914987072",
+      "posicion": 3
+    },
+    {
+      "nombre": "Jockie Music",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "8",
+      "posicion": 2
+    },
+    {
+      "nombre": "Jockie Music (1)",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permisos": "8",
+      "posicion": 1
+    }
+  ],
+  "canales": [
+    {
+      "nombre": "🎵┆ᴍᴜꜱɪᴄᴀ",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🔊┆ɢᴇɴᴇʀᴀʟ",
+      "tipo": 2,
+      "posicion": 0,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "moderator-only",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "nombre": "👋🏻┆ʙɪᴇɴᴠᴇɴɪᴅᴀ",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": "👋🏻 ʙɪᴇɴᴠᴇɴɪᴅᴀ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "✅┆ᴠᴇʀɪꜰɪᴄᴀᴄɪᴏɴ",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": "✅ ᴠᴇʀɪꜰɪᴄᴀᴄɪᴏɴ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "📜┆ʀᴇɢʟᴀꜱ",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "💬┆ɢᴇɴᴇʀᴀʟ",
+      "tipo": 0,
+      "posicion": 0,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530788052727763007",
+          "tipo": 0,
+          "nombreRol": "〔👤〕𝑀𝒾𝑒𝓂𝒷𝓇𝑜",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1531074770722881697",
+          "tipo": 0,
+          "nombreRol": "〔👤〕𝑀𝒾𝑒𝓂𝒷𝓇𝑜",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "nombre": "✅ ᴠᴇʀɪꜰɪᴄᴀᴄɪᴏɴ",
+      "tipo": 4,
+      "posicion": 0,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "✨┆ɪɴᴛᴇʀꜰᴀᴄᴇ",
+      "tipo": 0,
+      "posicion": 1,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "📣┆ᴀɴᴜɴᴄɪᴏ",
+      "tipo": 5,
+      "posicion": 1,
+      "categoriaNombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "👋🏻┆ᴅᴇꜱᴘᴇᴅɪᴅᴀ",
+      "tipo": 0,
+      "posicion": 1,
+      "categoriaNombre": "👋🏻 ʙɪᴇɴᴠᴇɴɪᴅᴀ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "✨┆ʀᴏʟᴘᴇʀꜱᴏɴᴀʟɪᴢᴀᴅᴏ",
+      "tipo": 0,
+      "posicion": 1,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎮┆ᴊᴜᴇɢᴏ 𝟣",
+      "tipo": 2,
+      "posicion": 1,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "👋🏻 ʙɪᴇɴᴠᴇɴɪᴅᴀ",
+      "tipo": 4,
+      "posicion": 1,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🙋🏻┆ᴘʀᴇꜱᴇɴᴛᴀᴄɪᴏɴ",
+      "tipo": 0,
+      "posicion": 2,
+      "categoriaNombre": "👋🏻 ʙɪᴇɴᴠᴇɴɪᴅᴀ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎮┆ᴊᴜᴇɢᴏ 𝟤",
+      "tipo": 2,
+      "posicion": 2,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "tipo": 4,
+      "posicion": 2,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "📸┆ꜰᴀᴄᴇ-ʀᴇᴠᴇᴀʟ",
+      "tipo": 0,
+      "posicion": 2,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "⭐┆ɴɪᴠᴇʟᴇꜱ",
+      "tipo": 0,
+      "posicion": 2,
+      "categoriaNombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "🗣️┆ʙᴏᴄʜɪɴᴄʜᴇ",
+      "tipo": 0,
+      "posicion": 3,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "tipo": 4,
+      "posicion": 3,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎮┆ᴊᴜᴇɢᴏ 𝟥",
+      "tipo": 2,
+      "posicion": 3,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "💎┆ʙᴏᴏꜱᴛᴇᴏꜱ",
+      "tipo": 0,
+      "posicion": 3,
+      "categoriaNombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        },
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "nombre": "💬┆ꜰᴏʀᴏ",
+      "tipo": 15,
+      "posicion": 4,
+      "categoriaNombre": "📌 ɪᴍᴘᴏʀᴛᴀɴᴛᴇꜱ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎬┆ᴄʟɪᴘꜱ",
+      "tipo": 0,
+      "posicion": 4,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "tipo": 4,
+      "posicion": 4,
+      "categoriaNombre": null,
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎮┆ᴊᴜᴇɢᴏ 𝟦",
+      "tipo": 2,
+      "posicion": 4,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🎮┆ᴊᴜᴇɢᴏ 𝟧",
+      "tipo": 2,
+      "posicion": 5,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "😂┆ᴍᴇᴍᴇꜱ",
+      "tipo": 0,
+      "posicion": 5,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "💤┆ᴀꜰᴋ",
+      "tipo": 2,
+      "posicion": 6,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "💕┆ꜱʜɪᴘᴇᴏꜱ",
+      "tipo": 0,
+      "posicion": 6,
+      "categoriaNombre": "💬 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴛᴇxᴛᴏ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": null,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "nombre": "🔒┆ᴘʀɪᴠ",
+      "tipo": 2,
+      "posicion": 7,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1530769557717778532",
+          "tipo": 0,
+          "nombreRol": "〔♱〕𝐻𝑜𝓁𝒹𝑒𝓇",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "nombre": "🔒┆ᴘʀɪᴠ 𝟤",
+      "tipo": 2,
+      "posicion": 8,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": null,
+      "permisos": [
+        {
+          "id": "1530763095994142932",
+          "tipo": 0,
+          "nombreRol": "@everyone",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "nombre": "Eventos",
+      "tipo": 13,
+      "posicion": 9,
+      "categoriaNombre": "🔊 ᴄᴀɴᴀʟᴇꜱ ᴅᴇ ᴠᴏᴢ",
+      "topico": null,
+      "nsfw": false,
+      "bitrate": 64000,
+      "userLimit": 10000,
+      "permisos": [
+        {
+          "id": "1531074245516460163",
+          "tipo": 0,
+          "nombreRol": "〔❓〕𝒰𝓃𝓋𝑒𝓇𝒾𝒻𝒾𝑒𝒹",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    }
+  ]
+}
